@@ -1,6 +1,6 @@
 # Projeto Final Soulcode - Bootcamp Engenharia de Dados
 
-Esse projeto é o resultado final de tudo que foi aprendido durante o bootcamp de engenharia de dados, ministrado pela Soulcode Academy.
+Esse projeto é o resultado final de tudo que foi aprendido durante o bootcamp de engenharia de dados, ministrado pela Soulcode Academy. A apresentação completa você pode conferir nesse [Link](https://github.com/vilimons/soulcode-projetofinal/blob/main/Apresenta%C3%A7%C3%A3o.pdf).
 
 # Escopo
 Realizar extração, transformação e carregamento dos dados através da linguagem Python, utilizando frameworks modernos como Pandas e Spark. 
