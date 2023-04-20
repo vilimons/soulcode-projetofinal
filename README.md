@@ -14,6 +14,9 @@ Por fim, fizemos a análise dos dados através do Looker Studio, mais uma ferram
 # Objetivo do Projeto
 A ideia central do projeto foi desenvolver uma consultoria sobre o mercado mundial de vinhos, utilizando dados reais de diversas fontes com o objetivo final de entregar aos nossos clientes análises objetivas e eficientes sobre a condição do respectivo segmento de mercado.
 
+# Orçamento
+![orcamento_gcp](https://user-images.githubusercontent.com/48607584/233250328-3e4356c1-0c52-454f-9b32-6c8ff65af7f1.png)
+
 # Equipe
 - [Leonardo Fabrício](https://www.linkedin.com/in/leonardo-fabricio-48bb60157/)
 - [Lucas Alcântara](https://www.linkedin.com/in/lucasalc%C3%A2ntara/)
